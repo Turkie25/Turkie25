@@ -24,7 +24,7 @@ class FurkanOzturk:
         self.languages = ["Python", "PHP", "Java", "JavaScript"]
         self.interests = ["Backend Development", "AI Automation", "Cybersecurity"]
         self.currently_learning = ["Software Architecture", "Scalable Systems", "AI Automation"]
-        
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
 
@@ -34,7 +34,6 @@ me.say_hi()
 
 I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**, currently pursuing my BSc. in Information Technology at Fontys University of Applied Sciences. My journey combines academic learning with real-world project experience at Gilde ICT College.
 
-
 ## 🔥 What I'm Up To
 
 <table>
@@ -42,11 +41,13 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 <td width="50%">
 
 ### 🔭 Currently Working On
+
 - Expanding skills in **software architecture**
 - Building **scalable backend systems**
 - **AI automation** projects
 
 ### 🌱 Learning Journey
+
 - Advanced **system design patterns**
 - **Full Stack Development**
 - **Cloud infrastructure** & DevOps
@@ -55,11 +56,13 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 <td width="50%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20" /> Open to Collaborate
+
 - **Open-source Python projects**
 - **Backend development** initiatives
 - **Automation tools** & scripts
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" height="20" /> Fun Facts
+
 - ⚡ Love solving complex backend challenges
 - 🔐 Cybersecurity enthusiast
 - 🤖 AI automation explorer
@@ -68,12 +71,12 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 </tr>
 </table>
 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Arsenal
 
 <div align="center">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" style="border-radius: 8px;"/>
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" style="border-radius: 8px;"/>
@@ -85,6 +88,7 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 </p>
 
 ### 🚀 Frameworks & Libraries
+
 <p>
   <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" style="border-radius: 8px;"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React" style="border-radius: 8px;"/>
@@ -92,6 +96,7 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="20" height="20" /> Databases & Data
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="border-radius: 8px;"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="border-radius: 8px;"/>
@@ -100,6 +105,7 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="20" height="20" /> Tools & Technologies
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="border-radius: 8px;"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" style="border-radius: 8px;"/>
@@ -110,14 +116,14 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 
 </div>
 
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
   <img height="100%" width="400" src="https://github-readme-stats.vercel.app/api?username=turkie25&theme=dark&count_private=true&show_icons=true&&include_all_commits=true&count_private=true&rank_icon=github&locale=en" alt="turkie25's GitHub Stats" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=turkie25&theme=dark&count_private=true&border_radius=10&locale=en" alt="" />
+</div>
+<div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkie25&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="turkie25's Most Used Languages" />
-    <img width="400" src="https://streak-stats.demolab.com/?user=turkie25&theme=dark&count_private=true&border_radius=10&locale=en" alt="" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -154,6 +160,7 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 </p>
 
 ### 💖 Support My Work
+
 <p>
   <a href="https://github.com/sponsors/turkie25">
     <img src="https://img.shields.io/badge/💖_Sponsor-DC2626?style=for-the-badge&logoColor=white&labelColor=1F2937" alt="GitHub Sponsors" style="border-radius: 12px;"/>
