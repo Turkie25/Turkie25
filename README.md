@@ -115,12 +115,12 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turkie25&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F2937&title_color=DC2626&icon_color=DC2626&text_color=F9FAFB&border_radius=15" style="border-radius: 15px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkie25&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=1F2937&title_color=DC2626&text_color=F9FAFB&hide=css,html&border_radius=15" style="border-radius: 15px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turkie25&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F2937&title_color=DC2626&icon_color=DC2626&text_color=F9FAFB&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkie25&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=1F2937&title_color=DC2626&text_color=F9FAFB&hide=css,html&border_radius=15"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turkie25&theme=dark&hide_border=true&background=1F2937&stroke=374151&ring=DC2626&fire=DC2626&currStreakNum=F9FAFB&sideNums=F9FAFB&currStreakLabel=DC2626&sideLabels=DC2626&dates=F9FAFB&border_radius=15" alt="GitHub Streak Stats" style="border-radius: 15px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turkie25&theme=dark&hide_border=true&background=1F2937&stroke=374151&ring=DC2626&fire=DC2626&currStreakNum=F9FAFB&sideNums=F9FAFB&currStreakLabel=DC2626&sideLabels=DC2626&dates=F9FAFB&border_radius=15" alt="GitHub Streak Stats"/>
 </div>
 
 ## 🐍 Contribution Snake
