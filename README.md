@@ -120,10 +120,10 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 
 <div align="center">
   <img height="100%" width="400" src="https://github-readme-stats.vercel.app/api?username=turkie25&theme=dark&count_private=true&show_icons=true&&include_all_commits=true&count_private=true&rank_icon=github&locale=en" alt="turkie25's GitHub Stats" />
-  <img width="400" src="https://streak-stats.demolab.com/?user=turkie25&theme=dark&count_private=true&border_radius=10&locale=en" alt="" />
+  <img height="100%" width="400" src="https://streak-stats.demolab.com/?user=turkie25&theme=dark&count_private=true&border_radius=10&locale=en" alt="" />
 </div>
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkie25&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="turkie25's Most Used Languages" />
+  <img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkie25&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="turkie25's Most Used Languages" />
 </div>
 
 ## 🐍 Contribution Snake
