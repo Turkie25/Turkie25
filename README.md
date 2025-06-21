@@ -115,7 +115,7 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=turkie25&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="turkie25's GitHub Stats" />
+  <img height="100%" width="400" src="https://github-readme-stats.vercel.app/api?username=turkie25&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="turkie25's GitHub Stats" />
   <img width="400" src="https://streak-stats.demolab.com/?user=turkie25&theme=transparent&count_private=true&border_radius=10&locale=en" alt="" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkie25&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="turkie25's Most Used Languages" />
 </div>
