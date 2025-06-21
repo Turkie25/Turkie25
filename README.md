@@ -115,12 +115,11 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turkie25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkie25&layout=compact&langs_count=8&theme=dark"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=turkie25&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="turkie25's GitHub Stats" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=turkie25&theme=transparent&count_private=true&border_radius=10&locale=en" alt="turkie25's GitHub Streak Stats" />
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=turkie25&theme=dark" alt="GitHub Streak Stats"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkie25&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="turkie25's Most Used Languages" />
 </div>
 
 ## 🐍 Contribution Snake
