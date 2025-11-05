@@ -1,14 +1,5 @@
-<div align="center"> 
-  <p style="color: #DC2626; font-weight: bold; font-size: 18px;">👁️ Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" style="border-radius: 10px;" />
-</div>
-
-<br>
-
-<img src="./Images/Furkan Öztürk Avatar.png" alt="Banner of Furkan Öztürk"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=36&duration=2800&pause=2000&color=DC2626&center=true&vCenter=true&width=600&height=80&lines=Hi+There!+👋;I'm+Furkan+Öztürk;Backend+Developer;Python+%26+PHP+Expert;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=36&duration=2800&pause=2000&color=DC2626&center=true&vCenter=true&width=600&height=80&lines=I'm+Furkan+Öztürk;Hi+There!+👋;Backend+Developer;Python+%26+PHP+Expert;Always+Learning!" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
@@ -19,8 +10,8 @@ class FurkanOzturk:
         self.name = "Furkan Öztürk"
         self.role = "Backend Developer"
         self.location = "Netherlands"
-        self.education = "Degree in Software Develpment @ Gilde ICT College"
         self.education = "BSc. Information Technology @ Fontys University"
+        self.education = "Degree in Software Develpment @ Gilde ICT College"
         self.languages = ["Python", "PHP", "Java", "JavaScript"]
         self.interests = ["Backend Development", "AI Automation", "Cybersecurity"]
         self.currently_learning = ["Software Architecture", "Scalable Systems", "AI Automation"]
@@ -120,7 +111,7 @@ I'm a passionate **Backend Developer** with expertise in **Python** and **PHP**,
 
 <div align="center">
   <img height="100%" width="400" src="https://github-readme-stats.vercel.app/api?username=turkie25&theme=dark&count_private=true&show_icons=true&&include_all_commits=true&count_private=true&rank_icon=github&locale=en" alt="turkie25's GitHub Stats" />
-  <img height="100%" width="400" src="https://streak-stats.demolab.com/?user=turkie25&theme=dark&count_private=true&border_radius=10&locale=en" alt="" />
+  <!-- <img height="100%" width="400" src="https://streak-stats.demolab.com/?user=turkie25&theme=dark&count_private=true&border_radius=10&locale=en" alt="" /> -->
 </div>
 <div align="center">
   <img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkie25&theme=dark&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="turkie25's Most Used Languages" />
